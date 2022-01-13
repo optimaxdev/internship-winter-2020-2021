@@ -1,10 +1,8 @@
 import './App.css';
+import {Anton} from "./components/anton";
 
-function App() {
-  return (
-    <div>
-    </div>
-  );
+export const App = () => {
+  return <div>
+    <Anton />
+  </div>
 }
-
-export default App;
