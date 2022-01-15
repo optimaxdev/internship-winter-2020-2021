@@ -1,0 +1,24 @@
+.border{
+    box-shadow: 0px 0px 33px 22px rgba(213, 136, 187, 0.27);
+    width: 275px;
+    height: 250px;
+    margin-left: 70pt;
+    margin-top: 70pt;
+    background-color: rgba(230, 196, 219, 0.176);
+
+}
+
+.style
+{
+    margin-left: 50pt;
+    font-size: 40pt;
+    color: rgba(208, 143, 181, 0.802);
+    font-family: 'Forum';
+}
+
+.decoration{
+    margin-top: -60pt;
+    margin-left: 8pt;
+    width: 254px;
+    height: 254px;
+}

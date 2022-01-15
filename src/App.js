@@ -1,8 +1,8 @@
 import './App.css';
-import {Anton} from "./components/anton";
+import {Julia} from "./components/julia";
 
 export const App = () => {
   return <div>
-    <Anton />
+    <Julia />
   </div>
 }
